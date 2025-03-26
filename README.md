@@ -7,8 +7,9 @@ This Job Search Assistant is an AI assistant designed to help users find job opp
 ![Streamlit Demo](doc/jobsearch-demo.gif)
 
 The Streamlit Demo can be run by 
-'''bash
+```bash
 python -m streamlit run jobsearch-assistant.py
+```
 
 ## Features
 - Job Recommendations: Users input their desired role and upload their resume to receive tailored job recommendations
@@ -34,23 +35,26 @@ python -m streamlit run jobsearch-assistant.py
 
 ## Installing
 1. Clone the repository
-'''bash
+```bash
 git clone https://github.com/yourusername/job-search-chatbot.git
 cd job-search-chatbot
+```
 
 2. Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
+```
 
 3. This chatbot is using Open AI GPT-3.5 turbo, so you will have to set the 'OPENAI_API_KEY' environment variable
+
 4. Run the Streamlit app
-'''bash
+```bash
 python -m streamlit run jobsearch-assistant.py
-
+```
 or
-'''bash
+```bash
 streamlit run jobsearch-assistant.py
-
+```
 
 ## How to Use the Job Search Assistant
 1. Enter a desired job title
