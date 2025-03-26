@@ -1,0 +1,509 @@
+JobTitle,Company,Location,Salary,JobDescription,QualificationsSkills
+Data Scientist,Exact Sciences,Redwood City,$85K-$135K,"The Data Scientist performs data analysis to extract knowledge or insight from structured or unstructured data. This position will apply advanced statistical algorithms for analysis of large-scale, complex datasets. This position will keep up to date with cutting-edge techniques in programming, machine learning, big data, and healthcare modeling and will seek ways to advance the organization’s capabilities in analytics.","Bachelor’s degree in computer science, data science, information technology, or related field.
+3+ years of experience working with large datasets for drawing business insights.
+1+ years of experience in a data science role.
+Professional working knowledge of machine learning; including solving complex business problems, predictive modeling, leveraging both structured and unstructured data sources, relational databases, and SQL.
+Professional working knowledge of statistics and modeling techniques.
+Fluent in Python or R programming.
+Demonstrated ability to learn new technologies.
+Proficient in Microsoft Office.
+Demonstrated ability to perform the Essential Duties of the position with or without accommodation.
+Authorization to work in the United States without sponsorship. Master’s degree in science, technology, engineering, mathematics, or related field.
+Experience in cloud environments.
+Professional working knowledge of distributed computing and big data technologies, such as Spark or related technologies.
+Professional working knowledge of statistical methodologies and tools (R, SAS, SPSS, etc.), mathematical optimization, control theory, and time-series analysis. 
+Professional working knowledge of Natural Language Processing, Information Retrieval, or Recommender Systems."
+Data Analyst,Levi Strauss & Co.,San Francisco,$68K-$91K,"Conduct analysis on complex retail data, measure and track data created by data products, and convert them into key KPI metrics.
+Support business stakeholders and regional data analysts by understanding their needs and providing guidance and support.
+Create dashboards to track the adoption and business impact of launched features and data products.
+Dive deep into complex business problems, provide insights, and partner with cross-functional teams on implementation.
+Collaborate with data science, data analytics, and product managers on planning, goal setting, and prioritization.
+Work with data and engineering teams to improve data quality, data analysis, and business debugging.
+Bring data to life through storytelling in a clear and meaningful way to audiences with varying levels of technical expertise, informing key strategic decisions.
+Promote a culture of data-driven technical excellence, ownership, and collaboration.
+Optimize and standardize reporting through automation.
+You will report to the Manager of Global Planning (Analytics & Reporting)","Over 3 years of professional experience in analyzing complex data, drawing conclusions, and making recommendations.
+More than 3 years of applied data visualization experience, with proficiency in Tableau, Looker, or PowerBI being a plus.
+At least 3 years of experience in extracting and manipulating large data sets from various relational databases using SQL (experience with Google BigQuery or MSsql is a plus).
+Experience with data integration tools such as Alteryx, Dataiku, or Data Fusion.
+Coding skills in at least one statistical or programming language (preferably Python or R) to import, summarize, and analyze data is a plus.
+Hands-on experience working with big data, such as sales, inventory management, and planning; retail knowledge is an advantage.
+Ability to translate and present complex analysis in executive summaries, with clear and effective written and verbal communication, and strong interpersonal skills.
+Strong problem-solving abilities.
+A Bachelor's degree in Economics, Statistics, Data Science, or Data Engineering (a Master's degree is a plus) or equivalent experience."
+Data Analyst,SpotOn,San Francisco,$107K-$140K,"Analytics Genius: Serve up impactful data-backed recs with a focus on predictive modeling and statistical analysis driving strategic decisions and business growth.
+Data Transformation: Identify relevant data sources, validate/reconcile data, and build concise and future-proof models designed for adaptability and scalability.
+Automation Mastermind: Get to the bottom of data discrepancies and outdated manual processes to ensure smooth operations using machine learning and data pipelines.
+Churn Crusader: Dive deep into why merchants are churning, figure out ""what happened,"" and use those insights to help us improve, employing advanced segmentation and predictive analytics.
+Visualize Insights: Build intuitive reports to monitor operations and software revenue performance with an emphasis on data storytelling and interactive dashboards.
+Team Up: Collaborate with Finance, Operations, Sales, and Product teams to maintain a reliable data infrastructure and contribute to data science initiatives.","3-5 years of experience in data science, business analytics, payments, finance, statistics, or a related field.
+Strong SQL skills (ability to write complex queries to extract insights), experience with BI tools, and proficiency in programming languages like Python or R.
+Operating with a bias toward sharing, transparency and collaboration is your default!
+Diving in, solving problems, and getting things done is second nature - no waiting for perfect conditions.
+Thriving in fast-paced environments, embracing ambiguity, and taking initiative without a rulebook."
+Data Scientist,Extend,San Francisco,$125K-$145K,"This is a data science / analytics hire to support Extend's Revenue Analytics team. You will have the opportunity to help scale and drive revenue within the organization by partnering with sales, marketing, product, engineering, and business leaders to drive value to our existing products and help to identify new product opportunities. Strategic Pricing and Revenue Optimization: Lead the development and implementation of innovative pricing strategies to maximize revenue generation and enhance client acquisition.
+Innovative Experimentation: Conduct A/B testing and experimentation on customer-facing product touchpoints, refining our approach to drive incremental revenue and enhance the merchant experience.
+Lead Cross-functional Projects: Work with internal stakeholders such as Sales, Growth, Program, and Servicing teams to define and execute on analytics-driven enhancements to current and future products.
+Data-driven Insights: Utilize advanced quantitative analysis techniques to identify and prioritize strategic initiatives, driving increased attach rates and revenue growth for our merchant partners, and opportunities to present the insights to leadership and cross-functional partners on a regular basis.
+Data Infrastructure: Collaborate with data engineering and product teams to harness the power of data analytics, defining data structures, and leveraging advanced tracking methodologies to uncover revenue opportunities.","2+ years in an analytics-driven role (analytics, consulting, etc), preferably with a digital product or service
+Expertise in Python or R
+Strong knowledge of SQL, structuring data and ability to effectively query multiple tables of different grains with use of subqueries and window functions 
+An analytical thinker with strong consultative skills for cross-functional work
+Practical and theoretical knowledge of A/B testing preferred
+A curious, entrepreneurial leader with plenty of grit, analytical prowess, creative thinking, and initiative
+Strong written and verbal communication skills
+Address ambiguous problems and formulate hypotheses into actionable and well-designed experiments
+Ability to dive deep into data and communicate insights to audiences of all backgrounds
+Ability and interest in thinking beyond the revenue organization, considering the challenges of other teams, and prioritizing what is best for the business holistically
+Empathy and humility
+The role prefers 2 days in our San Francisco office"
+Data Scientist,Amazon,San Francisco,$125K-$212K,"As a Data Scientist, you'll own the definition and implementation of customer-focused, AI-driven innovation in Amazon Customer Service globally, leveraging GenAI, ML, and/or NLP to transform complex business requirements and customer needs into innovative technology solutions. Your expertise will be key in shaping data-driven strategies and addressing complex data challenges. With expertise in AI, text analysis and embedding, language modeling, and generation, you'll design and develop scalable AI-powered technology solutions, prioritize initiatives, drive data-driven insights, and deliver business impact. This role will involve working with a cross-functional team (e.g., scientists, engineers, product management) to develop scalable and maintainable AI solutions for both structured and unstructured data. The ideal candidate has strong technological skills in ML, NLP, and GenAI, excellent written/documentation skills, and experience with big data technologies. The Data and Artificial Intelligence (AI) team is a new function within Customer Engagement Technology. We own the end-to-end process of defining, building, implementing, and monitoring a comprehensive data strategy. We also develop and apply Generative Artificial Intelligence Generative AI (GenAI), Computer Vision, Machine Learning, Ontologies, and Natural Language Processing (NLP) to customer service associate experiences and foundational technologies.","2+ years of data scientist experience
+ 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience  Experience in Python, Perl, or another scripting language
+ Experience in a ML or data scientist role with a large technology company"
+Accountant,Neptune Medical,Burlingame,$80K-$100K,"As an Accountant II at Neptune Medical, you will be working with a team that operates in a fast-paced environment. You will have the opportunity to be part of the company’s growth, while further developing your skills in areas of accounting, auditing, taxes, cash management, financial reporting and controls. The ideal candidate has a minimum of 3 years of work experience. We are looking for a driven, reliable and self-starting Accountant who works extremely well with others. This role reports to the Controller/Sr. Director of Finance and will frequently interact with members of the team at different levels. Play an integral role in the day-to-day operations of the accounting function: A/R, A/P, cash management, expense management, Sales and Use tax, and internal controls and recordkeeping.
+Perform month-end close activities such as balance sheet account reconciliations and journal entries, prepaid expenses, accrued expenses, fixed assets, etc.
+Manage new customer set up, invoicing, commission calculation, support vendor onboarding, invoice import, review and payment processes.
+Assist in maintaining overall accounting systems, procedures and policies.
+Be on the lookout for broken processes throughout the Accounting function and seek to improve continuously by identifying opportunities for standardization and automation.
+Participate in ad hoc accounting or finance projects and analyses as assigned.
+Assist in cost accounting and inventory count.","3+ years of work experience
+Bachelor’s Degree in Accounting or Business
+Detail oriented, willing to learn and have can do attitude
+Solid foundation of US Generally Accepted Accounting Principles (GAAP)
+Ability to drive to solve complex problems every day
+Expert multitasker and self-prioritizer with strong time management and organization skills
+Excellent verbal and written communication skills, with the proven ability to communicate effectively both within the accounting department and cross-functionally
+Strives for excellence but solves for the bigger picture
+Proficiency with Microsoft Excel
+Experience working with ERP systems such as: NetSuite,
+CPA or CPA candidate a plus
+Other financial systems such as Bill.com, RAMP a plus"
+Staff Accountant,Digilock,Petaluma,$70K,"This individual will manage key accounting functions, including domestic and international lease management, tax processing, cost accounting, and financial reporting. This role involves working with various systems, such as LeaseCrunch, Avalara, and Syspro, to ensure compliance with accounting standards, maintain tax records, and support audits. You will assist in budgeting, perform variance analysis, manage fixed assets, and oversee month-end processes. The ideal candidate will have strong analytical skills, advanced Excel expertise, and the ability to work independently in a dynamic environment. Manage domestic and international leases using LeaseCrunch to ensure compliance with ASC 842 lease accounting standards.
+Process tax returns using Avalara, manage nexus thresholds, register in new states, maintain resale/exemption certificates, and update custom forms in Syspro for the sales and support teams.
+Assist in the preparation of quarterly comprehensive financial reports, analyze income statement variances, and reconcile Syspro with China’s Kingdee financial system.
+Support the Accounting Manager in budgeting by communicating budget vs. actuals to department managers and reviewing quarterly budget variances.
+Assist in coordinating and supporting annual audits for domestic and international locations.
+Oversee monthly depreciation postings, formalize asset acquisition and disposal processes, and lead a project to identify and manage fixed assets.
+Handle cost accounting, ensuring intercompany pricing and costs are updated in collaboration with supply chain and international offices.
+Ensure all month-end journal entries, including expense accruals, depreciation, and intercompany accounts, are posted on time.
+Assist the Accounting Manager in leading various accounting and financial projects.
+","Bachelors degree in Accounting or Finance
+4+ years of experience
+Advanced knowledge of Excel such as pivot tables, vlookups, and logical formulas
+Advanced knowledge of accounting principles, standards, and regulations
+Works independently to solve problems
+Ambition to learn and grow
+Versatility, flexibility, and a willingness to work within constantly changing priorities with enthusiasm
+Commitment to excellence and high standards
+Professional appearance and demeanor
+Out of the box analytical thinker"
+Associate Machine Learning Engineer,Tubi,San Francisco,$140K-$169K,"The Rotational Program - Machine Learning Track is designed for early-career engineers and recent college graduates looking to gain hands-on experience across multiple areas of machine learning engineering teams in a fast-paced tech environment. Over the course of the program, participants will rotate through different machine learning teams, such as user recommendations and ranking, content understanding, and search ranking, to develop a well-rounded technical foundation.
+As an Associate Machine Learning Engineer, you will contribute to real-world projects, solve complex technical challenges, and collaborate with experienced engineers, product managers, and data scientists. By the end of the program, participants will have the opportunity to transition into a full-time machine learning engineering role, equipped with the experience and skills to drive innovation.
+This program is ideal for candidates who are curious, adaptable, and excited to work across multiple machine learning and artificial intelligence domains while developing expertise in cutting-edge technology. Rotate across three machine learning engineering teams, gaining exposure to different technical disciplines
+Design, develop, and optimize scalable systems, infrastructure, and applications
+Work with programming languages such as Python, Java, C++, or Go
+Apply computer science fundamentals in data structures, algorithms, machine learning, recommender systems and system design
+Debug, troubleshoot, and improve system performance and reliability
+Collaborate with cross-functional teams to launch and improve products
+Gain experience in cloud computing, DevOps, CI/CD pipelines, and distributed systems
+Participate in mentorship, technical training, and networking events throughout the program
+Engage in engineering-wide initiatives to improve processes and technical standards","Master’s or PhD degree in Computer Science or a related field with emphasis on Machine Learning
+Strong coding proficiency in at least one programming language (e.g., Python, Java, C++, Go)
+Solid understanding of computer science fundamentals, algorithms, and system design
+Demonstrated understanding and interest in machine learning engineering
+Passion for problem-solving, collaboration, and building scalable systems
+Strong communication skills and ability to work in a team-oriented environment Work Experience: Up to three years of professional and non-internship experience post-graduation
+Professional experience (e.g. internship, research assistantship or work experience) in some software engineering areas (infrastructure, machine learning, or front-end development)
+Familiarity with cloud platforms (AWS, GCP, Azure) and DevOps tools
+Experience with machine learning
+Demonstrated curiosity and interest in an engineering area through research, past jobs, open-source contributions, side projects"
+Marketing Data Analytics & Insights Specialist,Dolby Laboratories,San Francisco,$87K-$117K,"We are seeking a Marketing Data Analytics and Insights Associate to join our marketing team. This role is essential for measuring and reporting on the success of the marketing organization while leveraging data to inform strategic decisions and optimize operations. This position is part of the Marketing Strategy, Impact, and Operations team and reports to the Business Operations Lead. Conduct quantitative analyses and integrate multiple data sets—including internal metrics and market variables—to generate actionable insights that inform strategic planning.
+Develop and maintain data systems, dashboards, and visualizations to track the overall success of the Marketing function.
+Partner with global and regional marketing teams to establish processes for consistently tracking and storing key marketing metrics worldwide.","3+ years of experience in business analytics or data science, preferably in a marketing-related role.
+Bachelor’s degree in Statistics, Data Science, Computer Science, or a related quantitative field.
+Proficiency in data management, statistical analysis, and research techniques.
+Experience with business intelligence and analytical tools (e.g., Power BI, Tableau).
+Strong analytical and problem-solving skills, with the ability to interpret complex data sets and generate meaningful insights.
+Ability to build structured systems and processes within ambiguous environments, ensuring accessibility and usability of data across teams.
+Skilled in translating data into digestible insights and actionable recommendations for senior leadership and internal teams.
+Interest in technology, entertainment, film/TV, audio, music, or gaming is a plus."
+Marketing Manager,WRNS Studio,San Francisco,$90K-$120K,"WRNS Studio is looking for a Marketing Manager with 10 or more years of experience working in the building design industry, preferably in architecture, interior design, engineering, or construction. We welcome candidates from outside the industry if you are passionate about architecture, marketing, and storytelling. The Marketing Manager will be focused on WRNS Studio’s higher education sector. This position brings a great opportunity to gain expertise in a specific market area or areas, while working directly with WRNS Studio’s leadership and contributing to the success of the firm. With responsibility for managing proposals, qualifications, interviews, and awards, the Marketing Manager will guide the success of their sectors while contributing to the whole of the marketing group and the studio. The position also involves communications and business development support. While focused on specific market areas, we operate like a collective, supporting each other and working in collaboration to steward brand, cultivate relationships, drive new business, and recruit and retain the best. The Marketing Manager will support WRNS Studio’s four offices: San Francisco, Seattle, New York, and Honolulu. The position is based in WRNS Studio’s San Francisco office.","Past experience in a marketing role producing proposals
+Advanced proficiency in InDesign and PowerPoint; proficiency in Photoshop and Illustrator
+Excellent writing, editing and communications skills
+Basic skills with graphic layout and presentation
+Ability to work on multiple deadlines in a fast-paced environment
+Commitment to high quality work and attention to detail
+Bachelor’s degree "
+Marketing Analyst,Prosper Marketplace,San Francisco,$101K-$125K,"We are seeking a data-driven and analytical Marketing Analyst to join our Marketing Analytics team. This role is essential in optimizing acquisition strategies across multiple channels, including search, email, and multi-channel campaigns, to drive growth and improve marketing efficiency.
+The ideal candidate is highly analytical, has experience in lifecycle and digital marketing, and is passionate about using data to optimize targeting, segmentation, and conversion rates. This position offers the opportunity to work in a fast-paced, high-impact environment, collaborating with cross-functional teams to make data-driven decisions that scale acquisition efforts effectively.
+As a key influencer in our marketing strategy, you will report to the Senior Manager, Marketing Analytics, work directly with senior leadership, and play an integral role in shaping and optimizing our marketing efforts. Analyze and Identify Growth Opportunities: Conduct deep-dive analyses to uncover insights that drive customer acquisition and engagement
+Develop Strategic Test Designs: Create and implement A/B testing frameworks to evaluate new marketing initiatives and optimize campaign performance
+Optimize Marketing Touch-points: Support Product and Marketing teams in designing the most effective cadence and sequence of customer interactions across various marketing channels
+Monitor Key Performance Indicators: Build automated reports and dashboards to track marketing performance, customer behavior, and campaign effectiveness
+Forecast and Plan for Business Growth: Use data-driven insights to support budgeting, forecasting, and strategic planning efforts
+Collaborate Cross-Functionally: Partner with teams across marketing, product, risk, and data science to ensure alignment on strategic goals and execution","Education: Bachelor’s degree in a quantitative field (STEM: Science, Technology, Engineering, Mathematics); Master’s degree preferred
+Experience: 2+ years of experience in lifecycle and digital marketing analytics, preferably within financial services or fintech
+Strong SQL and Advanced Excel skills is required
+Experience with Python or R is preferred 
+Proficiency in data visualization tools such as Google Data Studio, Tableau, or similar platforms
+Understanding of hypothesis testing, statistical analysis, and experimental design
+Ability to analyze large datasets to derive actionable insights that drive marketing decisions
+Strong storytelling and presentation skills, with the ability to communicate complex data insights to senior leadership
+Ability to work independently, manage multiple projects simultaneously, and deliver results in a fast-paced environment"
+Software Engineer,Nuro,Mountain View,$125K-$188K,"Our software organization is growing and we are looking for talented engineers to join our autonomy team. As an autonomy engineer, you will work on challenging problems alongside a world-class team with a common real passion for advancing robotics to improve the human experience. Solve real world autonomy problems in one or more of the following areas: 
+Machine learning and computer vision, including;
+Perception tasks like detection, segmentation, tracking, classification and prediction across camera, lidar, radar and thermal data
+Behavior tasks like prediction and planning
+Techniques that allow us to scale data training, produce robust models and deploy them on the robot including active learning, semi- and self- supervised learning, model compression and architecture search, generative modeling
+Robotics including system architecture, state estimation, multi-object target tracking and 3D reconstruction
+Tools and processes to evaluate our system to make sure it is safe for deployment
+Design novel algorithms and produce robust, well-tested C++ software
+Work fast and smart, and collaborate well with other awesome team members","You are a recent graduate or graduating soon (BS, MS or Phd) with focus on one or more of the areas listed above
+You are a skilled algorithm designer with strong problem solving
+You are a talented software developer ideally with experience in C++/Python
+You have experience working with machine learning or autonomous systems
+You have a knack and real passion for searching and solving hard problems
+You are passionate about accelerating the benefits of robotics for everyday life"
+Backend Engineer,AppLovin,Palo Alto,$119K-$179K,"As a member of our backend software engineering team, you’ll solve technical challenges, including upgrading and implementing state-of-the-art software infrastructure. The team builds a high-performance, high availability, globally distributed ecosystem platform of services that in turn provide the foundation for rapid development of novel new systems that integrate into that ecosystem and improve it
+Our backend systems handle billions of requests per day, and work on our mediation platform responsible for our header bidding solution, creating high-availability low-latency systems that are distributed across multiple data centers.Design, develop, and maintain large-scale distributed systems
+Collaborate with various engineering teams to meet a wide range of technological challenges
+Work closely with our product team to contribute and influence the roadmap of our products and technologies
+Influence and inspire team members","Have 0-2+ years of experience and a minimum of a BS and/or MS in Computer Science
+Have excellent knowledge of computer science fundamentals including data structures, algorithms, and coding
+Professional experience with C++ and/or Java is a plus 
+Experience independently creating and maintaining projects"
+Software Engineer,Cisco,San Jose,$98K-$125K,"Our software engineers are the gurus behind the scenes ensuring all of our programs are easy to use and bug free. Using a keen eye, you’ll develop software and tools in support of many of our high-impact technology platforms such as operating systems, networks, databases and more. While we’re growing in the software business, you’ll still need to see the big picture and watch for hardware compatibility while even potentially influencing design.","A software developer who demonstrates exceptional communication and collaboration abilities, coupled with a genuine enthusiasm for tackling complex challenges. The ideal candidate will exhibit outstanding organizational skills and a keen aptitude for managing their time efficiently.
+As a process-driven individual, you will have a fervent desire to streamline and enhance existing procedures. Your adeptness in time management will empower you to effectively prioritize tasks and deliver high-quality work within set deadlines. Including but not limited to a graduate/upcoming graduate of a technical degree or certification program from a Technical Boot Camp, Apprenticeship, Community College or 4-year University. 
+ Open to 0-3 years of relevant experience or recent graduate or those in the final year of a Bachelor's in Computer Science , Software Engineering, Computer Engineering, Electrical Engineering, a related program, or holders of equivalent academic certifications. 
+ Up-to-date on programming and scripting languages: C/C++, Python, and/or Java 
+ Hands on QA, Testing, and/or Debugging skills 
+ Able to legally live and work in the country for which you’re applying, without visa support or sponsorship Knowledge of Linux, Networking concepts, OS fundamentals, Embedded Development, and/or ML 
+ Experience with Databases, Web Application Development, and Web Services 
+ Knowledge in Computer Networking and/or Cybersecurity 
+ Knowledge of Cloud Platforms: AWS, Microsoft Azure, or Google Cloud"
+Software Engineer,Notion,San Francisco,$130K-$238K,"Notion's Growth Engineers make our mission of software ubiquity a reality. Using experiments, creativity, and feature creation, this team accelerates the value of Notion to an ever growing audience of users. We are owners of the ins and outs of our business, using a blend of data, qualitative research, and product intuition to accelerate our impact at this critical time in our company’s journey. Deliver experiments end-to-end, from ideation to analysis, with velocity and quality to move core business metrics
+Get to know the Notion customer to understand key points in the customer journey and uncover insights that will drive activation and engagement
+Plan, shape, and build new features to create a more engaging and personalized early product experience for our customers","Shipping polished user interfaces: You can work with others to build and maintain quality user interfaces for a big audience. You have experience and are comfortable using Web technologies like HTML, CSS, JavaScript, and a modern UI framework like React. If you've experienced the technical challenges of rapid growth, that's a plus.
+Data and experimentation: You have Growth Engineering experience at another company. You are comfortable iteratively testing product flows using A/B testing to understand customer behavior and make data-informed decisions.
+Thoughtful problem-solving: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck.
+Pragmatism and impact-orientation: You care about business impact and prioritize projects accordingly. You're not just going after cool stuff—you understand the balance between craft, speed, and the bottom line.
+Putting users first: You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad.
+Empathetic communication: You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed.
+Team player: For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same."
+AI Platform Engineer,Faire,San Francisco,$150K-$207K,"At Faire we build elegant and efficient products to deliver superior customer experiences and enhance marketplace efficiency at the same time. From the mobile checkout process, to personalized search ranking, to the intelligent underwriting engine that determines credit limits for retailers --- we use data, machine learning, and AI to constantly iterate and innovate our product offering to create more value for the ecosystem.
+Faire is searching for a top-notch platform engineer to lead design and execution as we continue to build the AI Platform that will power our wholesale marketplace. This role will architect and build scalable, reliable systems to enable seamless software driven machine learning and AI deployment to improve Faire’s core metrics. Design and build highly scalable machine learning systems that the entire company will use. Examples of these include (but are not limited to)
+“Machine-Learning-as-a-service”
+Model Training / Finetuning framework
+Feature store, including batch and real-time feature computation, serving, and monitoring 
+Deep learning infrastructure that powers training and serving of Faire’s language and image models, including efficient LLM/LMM serving infrastructure
+Model prediction services to manage model deployment, inference and monitoring
+Partner with our internal customers to understand their ML/AI development pain points and craft platform solutions to address them
+Provide technical mentorship to interns on the team","1+ years experience building production machine learning systems or platform components such as feature store, model training framework, ML prediction service, LLM/LMM serving infrastructure, LLM/LMM evaluation framework etc 
+Degree in a relevant discipline such as Computer Science, Machine Learning, or another similar field
+Strong coding skills in Python/Java or equivalent
+Experience working within common backend system architectures (e.g. microservices) 
+Good understanding of engineering and infrastructure best practices, general software development principles with a machine learning software development life-cycle orientation"
+Software Development Engineer,Twitch,San Francisco,$99K-$200K,"Twitch's Enterprise Platform Engineering team develops and provides advanced data and integration services. We are looking for a Software Development Engineer who will be able to design, deploy, and manage cloud infrastructure, data infrastructure and applications on the Amazon Web Services (AWS) platform. With your peers, you’ll help maintain and enhance Twitch’s internally developed business applications and the glue that connects all of the systems together. You’ll leverage AWS infrastructure to integrate systems and design efficient data services. Build solutions on AWS using CDK to support internal systems
+Design and build robust data pipelines to support business intelligence initiatives while ensuring data quality and governance
+Manage configurations for enterprise applications
+Create and maintain documentation around processes and workflows important to infrastructure and custom applications
+Respond to operational issues and requests from internal customers
+Work closely with development teams to integrate cloud solutions into existing applications and workflows","1+ years of programming experience in both of the following languages: Python, SQL.
+1+ years of experience with several AWS Services and products
+Experience automating administrative and configuration tasks
+Good troubleshooting skills
+Good understanding of Data Architecture
+A basic understanding of infrastructure as code concepts
+An interest in building, maintaining, and supporting high scale, business critical systems in a cloud environment Familiarity with AWS infrastructure
+Experience with email / notifications technologies
+Experience writing Go in production systems"
+Software Engineer,LinkedIn,Mountain View,$99K-$163K,"At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team. You will scale distributed applications, make architectural trade-offs applying synchronous and asynchronous design patterns, write code, and deliver with speediness and quality.
+You will develop multi-tier scalable, high-volume performing, and reliable user-centric applications that operate 24x7.
+You will produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.
+You will provide technical leadership, driving and performing best engineering practices to initiate, plan, and execute large-scale, cross functional, and company-wide critical programs. Identify, leverage, and successfully evangelize opportunities to improve engineering productivity.","BA/BS in Computer Science or related technical field or equivalent practical experience
+1+ years of industry experience in software design, development, and algorithm related solutions
+Experience programming in languages such as Python, Java, Javascript, C/C++, C#, Objective-C, Ruby, etc. Experience in designing and building infrastructure and web services at large scale.
+Expert knowledge of computer science, with strong competencies in data structures, algorithms, and software design.
+Proven coding skills in Python or JavaScript/AJAX, database design and SQL, and/or knowledge of TCP/IP and network programming.
+Experience building web applications and services with IDEs, ant, junit, etc.
+Experience with relational databases (transactional and non-transactional), database architecture, and distributed transaction management."
+Software Integration Engineer,Applied Intuition,Mountain View,$120K-$140K,"Applied Intuition is looking for software integration engineer who can champion the delivery of features in our newest product. This involves working across software and hardware to ensure that the full system is integrated together seamlessly when it needs to be delivered to the customer. Deliver full-system features that span software and hardware that meet customer requirements
+Directly interact with the customers to identify the target use-cases, then manage the project to complete the integration
+Work cross-functionally with the product, software, mechanical and electrical teams to develop and deploy systems
+Develop a deep understanding of the entire system architecture and how the software and hardware components interact
+Design and bring up test rigs needed for end-to-end testing and validation of system performance
+Test and troubleshoot integration between various components to ensure reliability","BS/BA, MS, or PhD in Computer Engineering, Computer Science, or related degree
+Software development experience in C/C++
+An understanding of electronic systems and how how to setup and debug them Proven ability as a self-starter and can quickly become comfortable with new technical tools
+Experience taking initiative in a fast-paced environment
+Familiarity with developing software for embedded systems"
+Product Manager,Snap Inc.,San Francisco,$178K-$313K,"Lead efforts in optimizing Snap Inc.’s web and app ecosystems for search engines and new search technologies. This role is critical to improving discoverability, driving organic growth, and connecting users to the rich content and features Snapchat offers. 
+Define and own the vision, strategy, and roadmap for SEO initiatives across Snap’s web and app platforms to increase new user acquisition and retention. 
+Define goals and own performance against key business metrics for growth, and proactively drive accountability towards those goals
+Evolve continuously — constantly identify and size new opportunities to enhance Snapchat discoverability data insights, user research, and design thinking. 
+Partner with engineering, design, content, and marketing teams to implement SEO best practices and align technical execution with user needs. 
+Monitor industry trends, search algorithm updates, new technologies and competitor strategies to keep Snap’s search and discoverability practices at the cutting edge. 
+Define key performance indicators (KPIs), track progress, and share results with stakeholders, driving alignment and prioritization across teams. 
+Drive the team’s roadmaps and execution end-to-end — from planning processes to design to development and through launch, authoring excellent documentation and sharing insights and results throughout the company","Deep understanding of search engine optimization, including technical SEO, content strategy, and link-building. 
+Experience with web and mobile app architecture optimization and its intersection with SEO. 
+Proficiency in SEO tools such as Google Analytics, Google Search Console, and other industry-standard platforms. 
+Highly impact-focused, with a demonstrated history of leading teams to deliver concrete results
+Detail oriented leader who can dive deep into every project on the team’s roadmap when needed
+Outstanding communication skills and extremely comfortable conveying complex topics to a diverse array of stakeholders
+Ability to navigate a complex product area and gain buy-in from executives 
+Extremely proactive with the ability to initiate and implement complex projects with minimal guidance
+Ability to collaborate and build trust with engineers, designers, data science and other cross-functional teammates
+Ability to think creatively and approach problems with system-level thinking Bachelor’s degree or equivalent years of experience
+BS/BA degree or equivalent years of experience
+5+ years of experience building and shipping products at a consumer or advertising technology company"
+Finance Manager,Amazon,San Francisco,$85.9K - $179.5K,"Amazon.com is seeking a Finance Manager in the Financial Planning and Analysis team of the Amazon Music Finance team. In partnership with business, operations, and technology teams throughout Amazon, this position will lead the long-term financial strategy development and drive strategic initiatives to improve financial reporting and customer experience through automation, process improvements, and defects prevention. This role will engage with executive leadership and cross functional teams to drive results.","5+ years of tax, finance or a related analytical field experience
+5+ years of multiple finance and accounting roles experience
+4+ years of applying key financial performance indicators (KPIs) to analyses experience
+4+ years of building financial and operational reports/data sets that inform business decision-making experience
+Bachelor's degree in finance, accounting, business, economics, or a related analytical field (e.g., engineering, math, computer science)
+
+"
+Marketing Analytics Manager,Allbirds,San Francisco,$90K - $100K,"Analyze performance marketing channel data. Provide insights and recommendations for marketing team stakeholders and leadership
+Build a reporting and results communication cadence utilizing common tools (Looker, Amplitude) that supports marketing stakeholders
+Prepare results for key cross functional meetings including weekly and monthly business reviews
+Participate in development of key campaign KPIs for multiple channels leading up to the launch of new products and initiatives
+Leverage prior experience working across key media and CRM channels to provide insights and best practices based on data
+Monitor and evaluate marketing campaigns and initiatives, providing insights for continuous improvement.
+Create and maintain marketing dashboards, reports, and visualizations to track performance and communicate findings.
+Utilize statistical analysis and modeling techniques to forecast market trends and customer behavior.
+Collaborate with cross-functional teams, such as brand, digital marketing, channels, product, and finance, to align marketing analytics with overall business objectives. Etc.
+Stay up-to-date with industry trends, emerging technologies, and best practices in marketing analytics.","Experience working and collaborating with marketing and finance teams
+Bachelor’s degree in statistics, mathematics, science, computer science, business analytics or related quantitative focus
+5+ years of professional experience in online marketing, e-commerce, or equivalent role within analytics preferred.
+Expert in Microsoft Office/GSuite with experience in various analytics tools
+Experience with Shop, Search, Social, Affiliate, CTV, Audio
+Ability to effectively communicate results and data to the internal team and clients
+Data driven with strong analytical and quantitative skills to identify and present opportunities and also measure success.
+Experience working across key channels
+Experience managing data flows, reporting systems and dashboards
+Experience managing channel revenue thru multi-touch attribution (MTA) and/or mix market model (MMM) systems
+Experience running and applying incrementality and hold-out tests
+Experience working with platforms including or similar to Snowflake, Rudderstack, Looker, LiftLab
+Primary experience with digital commerce business, but secondary experience with retail stores a plus
+Passion for our mission of sustainability - Doing better things in a better way."
+Senior Manager Product Management,Capital One,San Francisco,$210.5K - $240.3K,"Develop and communicate the product vision for the Agentic AI platform and user experience. 
+Work closely with partner teams to define requirements and measures of success. 
+Prioritize the product backlog to maximize business and customer outcomes. 
+Incorporate design thinking and analytics to inform product design. 
+Enable collaboration and ensure communication between teams. 
+Maintain a healthy backlog of work and play a critical role in many agile ceremonies. 
+Support the team with escalation and resolution of impediments. 
+Serve as the connection between customers, partners, Capital One’s mission, and your team. ","Bachelor’s Degree in Computer Science or Engineering or military experience
+MBA or Master’s degree 
+At least 5 years of experience in product management or at least 3 years of experience in product design, agile delivery, business analysis, data science, or software engineering"
+Security Systems Senior Sales Executive,Siemens,Oakland,$75.4K - $129.2K,"Achieve new order/booking and profit goals based on your assigned quota. 
+Develop and maintain a qualified funnel of opportunities including forecasting expected order intake. Deliver on forecasted results consistently. 
+Develop a comprehensive understanding of the marketplace, competitor offerings, customers, and decision influencers across the region, segments, and verticals within the region. Keep current on security market business and product trends. 
+Develop a vertical market and account management plan that focuses on strategic growth. Identify new business opportunities to grow in new markets or adjacent segments and develop “go to market” strategies to drive business to the end user and the standard construction channel
+Act as a consultant to multiple levels of the customer’s organization by understanding their challenges and recommending services to ensure their building systems perform as required to achieve business goals. 
+Attend industry-specific networking events; actively participate in professional organizations such as ASHRAE, AEE or USGBC to build a network of contacts and to represent Siemens in the market. 
+Consult with the customer and determine budgeting and investment requirements. 
+Position Siemens as an industry leader among service providers, leveraging Siemens world-class digital service delivery as a key differentiator. 
+Collaborate with operations and internal teams to deliver excellent customer outcomes. 
+Work with your internal sales support to enable you to spend more time with your customers. 
+Collaborate with sales estimators to prepare cost estimates and customer bid packages. 
+Partner with other sales business teams to plan, target, and acquire new projects and accounts. 
+Set pricing based on identified value of the services offered to the customer. 
+Work with operations, finance, legal and other inside and outside resources to obtain the sale. 
+Actively participate in sales department meetings, workshops, and seminars to stay knowledgeable on current market, business, and product trends. 
+Expected to spend minimum 50% of time in customer facing activities, performed in person and on customer site.
+Work with existing customer base supporting their needs as well as act as a hunter to bring in new customers to the business.
+Travel overnight ~10% for training and business development as required based on your assigned territory.","High School Diploma or state-recognized GED
+3+ years of Sales Experience in security systems, low voltage systems or related
+Must be able to demonstrate financial expertise; estimating and selling technical solutions and service offerings effectively and independently. 
+On-the-job experience in account development and strategic sales skills 
+Verbal and written communication skills in English
+Must be able to demonstrate organizational, presentation, and negotiation skills 
+Experience with Microsoft Office suite 
+Must be 21 years of age and possess a valid driver's license with limited violations. 
+Legally authorized to work in the United States on a continual and permanent basis without company sponsorship."
+Analytics Lead,"Qventus, Inc",Mountain View,$125K - $160K,"Deeply understand the business problems of our external and internal users to identify and validate new product opportunities. 
+Manage the definition and development of a broad scope of analytics products. 
+Refine requirements and enable other developers to execute efficiently. 
+Manage team sprints and coordinate cross-functional efforts when needed. 
+Ensure analytics products have both rigor and polish to delight our users. 
+Facilitate our product, design, and engineering teams’ laser focus on outcomes. ","5+ years of experience in analytics or business intelligence. 
+2+ years of experience in product management. 
+Healthcare domain experience. 
+Excellent communication skills, capable of engaging effectively with customers, partners, and internal teams. 
+Proficiency in SQL. 
+Proficiency with at least one dashboarding/visualization tool (e.g., Looker, Sigma). 
+Comfort structuring and managing end-to-end analytics projects. 
+A love for the big picture and a healthy obsession with the details. 
+Deep curiosity and a passion for real-world impact. "
+Retail Business Banker,Umpqua Bank,San Jose,$94K - $150K,"Initiate and develop new business through outside business development activities including utilizing targeted lists. You will ensure ongoing contact with new clients to enhance client’s initial experience with Umpqua Bank. 
+Develop revenue-generating client relationships by calling on prospective or existing customers, identifying prospects, suitable method of contact, and determination of their needs and appropriate products or services including cross market solutions (i.e. lending, deposits, treasury management, wealth management, etc.). You will leverage the Bank’s turnkey solutions including automated scoring. 
+Develop a comprehensive understanding of client’s needs, based on the review and analysis of personal and business financial data gathered through relationship review and personal meetings providing integrated delivery of financial services. 
+Achieve individual annual production and growth goals for business banking deposits, fees and loans to ensure the bank meets its overall financial targets. 
+Build client referral pipeline via identification and development of internal and external centers of influence. 
+Build client referral pipeline via identification and development of internal and external centers of influence. 
+Partner consistently with other internal business partners to uncover opportunities to deepen the client relationship. 
+Actively participates in community organizations to source business development opportunities and maximize. 
+Demonstrates compliance with all bank regulations for assigned job function and applies to designated job responsibilities – knowledge may be gained through coursework and on-the-job training. Keeps up to date on regulation changes. 
+Follows all Bank policies and procedures, compliance regulations, and completes all required annual or job-specific training. 
+Maintain a working knowledge of Bank's written policies and procedures regarding Bank Secrecy Act, Regulation CC, Regulation E, Bank Security and other regulations as applicable to this job description. 
+May be asked to coach, mentor, or train others and teach coursework as subject matter expert. 
+Actively learns, demonstrates, and fosters the Umpqua corporate culture in all actions and words. 
+Takes personal initiative and is a positive example for others to emulate. 
+Embraces our vision to become “Business Bank of Choice”
+May perform other duties as assigned. ","Bachelor’s degree in business, or equivalent work experience. 
+4-7 years of relevant business/commercial banking experience or equivalent., required. 
+Strong relationship management skills including, but not limited to: new business development, analytical thinking, problem solving, strong sales skills, and intermediate credit and credit quality skills. 
+Strong credit analysis and commercial underwriting skills, including accounting, financial statement and cash flow analysis experience. 
+Proven track record of success and skills in developing new clients and business, including prospecting, sourcing and networking. 
+Strong knowledge of business banking policies, procedures, practices, and documentation. 
+Advanced knowledge of cash management solutions and deposit solutions, including product, policies, procedures, practices, and documentation. 
+Demonstrate excellent written and verbal communication and presentation skills. 
+Ability to work effectively with individuals and groups across the company to manage customer relationships. 
+Ability to train and present to small and large audiences. 
+Ability to train and present to small and large audiences. 
+Knowledge working with structuring credit products for small businesses in diverse industries. 
+Proficient with personal computers and related software packages such as Word and Excel. 
+Superior technical credit expertise. Readily mentor's others to grow their skillsets in this space. 
+Ability to negotiate/collaborate with Senior Credit Officers on credit terms and structures. 
+Experience with syndications, asset-based lending, capital structure finance, leveraged lending, enterprise value lending, and trade finance. 
+Experience with underwriting and/or managing Shared National Credits (SNC). "
+Senior Customer Marketing Manager ,Cresta,San Francisco,$121K–$203K,"You will build and scale the customer marketing function at Cresta across the key focus areas of advocacy, references, reviews, and campaigns
+You’ll develop a consistent pipeline of public customer stories, expressed across various mediums like written case studies, professionally produced videos, slides and sales collateral, and live event speaking opportunities
+You’ll partner with Revenue Operations and CS to design and manage a scalable, programmatic customer reference program that helps our sales team win new business opportunities
+You’ll launch customer relationship surveys to better measure our customer experience, identify areas of improvement in the Cresta transformation journey, and identify new advocates
+You’ll partner with Product Marketing, Demand Gen, and our Customer Center of Excellence to develop customer communications and campaigns related to areas such as release marketing, expansion campaigns, and adoption programs
+You’ll develop and run programs to drive public reviews of Cresta across sites like G2 and Gartner Peer Insights
+You’ll partner with Field Marketing, Product Marketing and CS to execute a world-class Customer Advisory Board program designed to provide memorable networking, learning and feedback opportunities for Cresta’s most strategic customer leaders","7+ years of experience developing strategy, building and driving customer marketing programs at high growth SaaS companies
+Experience scaling high-touch customer advocacy programs 
+Experience building the strategy, implementing, and managing a formal reference program
+Experience with customer relationship surveys and using their results to influence strategy, roadmap prioritization, and advocacy programs
+Experience driving customer engagement with major review sites like G2 and/or Gartner Peer Insights
+Experience developing and overseeing customer-facing communication programs, campaigns, and sales plays that drive increased usage and value in existing products, as well as expansion pipeline and revenue 
+Ideal experience in software categories related to contact centers, customer experience and virtual agents 
+Domain knowledge of large language models and applications of AI in the enterprise 
+Experience in hyper-growth scale-ups"
+Lead Financial Analyst ,Intuit,Mountain View,$146.5K - $198.5K,"Strategic planning: Be a trusted advisor to the QuickBooks Workforce Solutions leadership team to develop and refine our 1- and 3-year strategic plans, proactively highlighting risks and opportunities related to business growth and drive optimal investment decisions through data-driven insights and business modeling expertise.
+Operational excellence: Partner with the Product, Marketing and Analytics partners to develop and monitor key performance indicators to drive insights and decision making in order to achieve our strategic and financial plans.
+Modeling: Work with business partners and finance colleagues to create financial models to analyze complex business scenarios that drive and inform our go-to-market strategy (e.g. promotion, pricing, new sales channel opportunities, product development priorities).
+Financial reporting: Prepare financial reporting deliverables (month-end close package, variance explanations, etc) to enable transparency into the business’s performance and drivers. Liaise with the Corporate Accounting team and cross-functional business partners to ensure correct accounting treatment of business activities.
+Process improvement: Drive efficiencies and continuous improvement by streamlining, standardizing and automating processes and reporting requirements.","Undergrad in Finance, Accounting or Business Management or equivalent work experience; Masters in Finance a plus
+6 - 8 years FP&A experience or equivalent tenure from related positions in corporate finance, investment banking, private equity, or analytics
+4+ years of experience with financial forecasting or analytic modeling
+Enjoy operating in an extremely fast-paced, entrepreneurial environment
+Proven track record of translating business results into an insightful & consumable story for leadership teams, ideally in high-growth software / SaaS environments
+Excellent verbal and written communication skills with proven ability to partner with all levels of the organization, influence stakeholders using data and collaborate in an inclusive culture
+Detail-oriented with strong analytical, problem solving, and financial modeling skills
+Self-starter with a desire to quickly learn and excel; willing and able to initiate, manage, and execute projects with minimal supervision
+Grace under pressure with a good sense of humor and dose of humility
+Advanced Excel and PowerPoint skills; experience with Hyperion Essbase preferred
+Experience with a Human Capital Management business a plus"
+Brand and Digital Marketing Lead ,Waymo,Mountain View,$243K - $308K,"Drive an insights-driven content strategy that helps Waymo unlock rapid brand growth
+Write compelling narratives about our brand and technology for different audiences (technical and non-technical)
+Oversee and directly manage all digital communications including Waymo websites and newsletters
+Monitor and report on the performance of brand programs to senior executives and XFN collaborators, providing recommendations for continuous improvement
+Oversee cohesive brand activation plans across social media, brand advertising, and integrations into culture and entertainment
+Provide mentorship to brand marketing and social media leads, setting the team's goals and strategic vision","14+ years' experience in content strategy, brand-building, and social media marketing
+Bachelor's degree or equivalent (MBA preferred)
+Experience building marketing plans for global or high-growth stage brands
+Applied use of consumer insights, marketing analytics and measurement models
+Experience motivating and influencing others at all levels of an organization, both directly and across teams
+Passionate individual contributor who will lead important workstreams while also mentoring and inspiring the broader team"
+Compensation Partner,Anthropic,San Francisco,$230K - $285K,"We are seeking an experienced Compensation Partner to join our small and mighty Total Rewards team. This role will support Sales and G&A orgs on the strategy, design and execution of Anthropic’s compensation programs - including salary, variable compensation, equity, as well as other creative programs that support our diverse and growing team! This role is a great fit for someone who has both seen compensation excellence at scale and operated in rapidly scaling, high-ambiguity environments with evolving scope.","At least 10+ years of experience in Compensation, preferably in a high growth environment.
+Demonstrated experience with sales plan design and implementation.
+Strong collaboration and program management skills, with a track record of taking on ambiguously-scoped projects and taking ownership to deliver amazing results.
+Exceptional communicator, particularly in writing. "
+Lead Product Manager,Verkada,San Mateo,$200K - $275K,"We are looking for a Lead Product Manager to drive the next generation of Verkada Alarms threat detection monitoring. In this role, your mission is to take our human-in-the-loop monitoring to the next level, developing solutions that require close to zero training of operators, 99.99% reliability in agent decisions, and industry leading response speed – all while keeping operations within defined cost parameters.","5+ years of experience in product management, preferably in B2B
+Undergraduate degree in Computer Science, Electrical Engineering, or similar quantitative field. MS, PhD, or MBA optional
+Proven history of designing and landing optimized user experiences; a strong intuition for simplifying complex concepts is critical to success in this role
+Ability to design operational workflows for efficiency, accuracy, and cost; prior operational experience is a plus
+Demonstrated ability to work cross functionally with both internal teams and 3rd party partners on mission critical operations"
+Machine Learning Systems Engineer,AMD,San Jose,$192K - $288K,"We are looking for a Machine Learning Engineer to join our Models and Applications team. If you are excited by the challenge of distributed training of large models on a large number of GPUs, and if you are passionate about improving training efficiency while innovating and generating new ideas, then this role is for you. You will be part of a world class team focused on addressing the challenge of training generative AI.","A Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+Experience with distributed system management, e.g. Kubernetes.
+Experience with ML frameworks such as PyTorch, JAX, or TensorFlow.
+Experience with distributed training and distributed training frameworks, such as Megatron-LM.
+Experience with LLMs or computer vision, especially large models, is a plus.
+Excellent Python programming skills, including debugging, profiling, and performance analysis.
+Experience with ML pipelines.
+Strong communication and problem-solving skills."
+Data Engineer ,Adobe,San Jose,$113.4K - $206.3K,"Design and develop distributed services that are resilient, highly available and scalable. 
+Collaborate with business partners, architects, technical leads, product management and analysts to develop high-quality customer centric solutions. 
+Participate in all aspects of software development activities, including design, coding, code review, unit and integration testing, bug fixing, deploy and code/API documentation. 
+Own feature development from inception to production rollout and postmortem & contribute to the development of engineering processes. 
+Help evaluate innovative technologies and incorporate them into our stack. ","B.S. or M.S. in Computer Science or equivalent engineering degree. 
+3+ years of software engineering experience having built highly maintainable, scalable systems with Scala/Java or comparable strongly typed language. 
+Experience with data transformation & ELT pipelines on large data sets using Databricks, SnowFlake, SQL, Python, Jupyter Notebooks. 
+Excellent data analysis, problem-solving skills & proficiency with data visualization tools (e.g. Power BI, Tableau, Looker)
+Experience with building & deploying machine learning models & ML pipelines such as Sklearn, Tensorflow, PyTorch, KubeFlow, MLFlow, SageMaker, or similar. 
+Ability to multi-task simultaneously different projects, having a positive outlook, motivated learner with strong interpersonal and written and verbal communication skills. "
+Marketing Specialist ,Supermicro,San Jose,$69K - $95K,"We are looking for an enthusiastic Marketing Specialist to help us in our overall marketing efforts. You will be an integral part of the development and execution of marketing plans from brand awareness to product promotion. A Marketing specialist should be a competent professional able to grasp consumer behavior trends and generate creative ideas. You should also be well-versed in specialized marketing concepts, principles and tactics. The goal is to deliver effective marketing programs that will help our reputation and growth.","5+ yrs of experience in client/vendor relationship management 
+Good knowledge of all advertising vehicles from traditional billboards, print to digital advertising and lead generation. 
+Strong document control and organization skills, proficiency with MS Excel, Word and Microsoft Powerpoint 
+Experience with marketing automation tools, such as hubspot, marketo, salesforce, etc. 
+Experience with social media platforms and paid/advertising platforms, such as Google Ads, FB/X/Linkedin Ad manager. 
+Proven ability to multi-task and prioritize when several different projects are assigned simultaneously 
+Strong communication and collaboration skills 
+Ability to work collaboratively in a team 
+Must be proactive and able to start and finish projects "
+Software Engineer,Snowflake,Menlo Park,$157K - $230K,"Design and build features, and/or distributed platforms at scale. 
+Drive impactful initiatives for the globally distributed infrastructure
+Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions.
+Contribute to improving our engineering processes, tooling, and standards.","2-5 years’ of industry experience designing, building, and supporting large-scale systems in production.
+Strong fundamental computer science skills. Knowledge of algorithms and data structures.
+Fluency in Java, Python, and SQL 
+Deep multi-faceted appreciation in building end-to-end customer facing products.
+Experience in customer-facing product development and collaboration with cross-functional teams.
+BS/MS/PhD in Computer Science or related majors, or equivalent experience."
+Executive Assistant,CrowdStrike,Sunnyvale,$100K - $170K,"We are seeking a highly skilled and motivated Executive Assistant to join CrowdStrike, a dynamic and fast-paced technology company. This role requires an independent self-starter with excellent problem-solving abilities, a keen attention to detail, and significant experience managing global travel logistics. The ideal candidate thrives under pressure, adapts quickly in a fast-paced environment, and exercises sound judgment while handling confidential information with discretion.","Experience: 5+ years of experience providing executive-level support, with demonstrated experience supporting senior executives at a high-profile organization.
+Education: Bachelor's degree or equivalent work experience preferred.
+Global Travel Expertise: Significant experience managing complex global travel, including the preparation of all necessary documentation for international travel.
+Technical Proficiency: Demonstrated high aptitude for learning new tools, systems, and processes quickly, with the ability to adapt to evolving technologies and workflows. Strong working knowledge of Microsoft Office and Google Suite.
+Adaptability: Thrive in a fast-paced, often ambiguous environment, and handle changes with a positive, proactive attitude.
+Attention to Detail: Impeccable attention to detail in every task, ensuring flawless execution in scheduling, documentation, and travel arrangements.
+Prioritization and Urgency: Skilled in managing and prioritizing multiple requests simultaneously while maintaining a focus on quality and urgency. The ability to manage time effectively across multiple time zones is essential.
+Polished Executive Presence: Represent the CrowdStrike with professional maturity and poise in all interactions and events.
+Ownership and Initiative: Take ownership of tasks and projects with minimal supervision, anticipating needs and creating solutions that support the goals of the Office.
+Strong Communication Skills: Excellent verbal and written communication skills, with the ability to clearly and effectively communicate across a wide range of stakeholders.
+Integrity and Discretion: Display the highest level of integrity and professionalism, handling confidential information with discretion and sound judgment."
+Applied Machine Learning Researcher ,Lambda,San Francisco,$225K - $375K,"Incubate research ideas and turn them into practical applications for Lambda’s products.
+Work with engineering and product teams to build AI-powered applications.
+Focus on LLMs and agentic applications.","A power user of AI applications with a strong sense of what makes them intuitive and effective.
+Passionate about turning research into practical applications and pushing their capabilities further.
+Have a strong track record of building and delivering in this space.
+Strong engineering skills in prototyping and system integration.
+Experience with building multi-modal AI applications.
+Familiarity with post-training techniques, model steering, or quantization.
+Contributions to open-source projects."
+Tax Senior,EY,San Francisco,$95.6K - $157.9K,"Depending on the needs of our clients and your work experience, there are many different types of projects you could be working on; identifying ways to improve operational effectiveness in tax functions, reviewing the process and controls that are in place including technology, looking at effectiveness of the various technology systems our tax clients use to increase automation and data quality throughout tax processes, assessing the overall risk to establish a proper control environment; designing and building custom tax applications. As a Senior, you would be working with leadership as a part of these exciting and impactful projects. In addition, you will be required to:
+
+Understand key tax processes, technology, data, analytics, and risks/controls
+Establish relationships with peers and effectively balance projects across teams
+Support a team in planning and executing internal and external projects
+Grow technical skills and business knowledge through training and hands-on experience","Have an interest and experience in improving the performance of tax functions, the demonstrated ability to team with and motivate others, and willingness to develop meaningful and influential relationships with clients and colleagues
+Taking ownership of assigned tasks and monitoring them until completion, including documenting requirements, configuration, testing, debugging, project profitability, and tax systems and process configuration
+Strong leadership ability, attention to detail, problem-solving skills, analytical abilities 
+Identifying ways to automate manual tasks using existing financial or tax systems and emerging technologies
+Ability to work on deliverables from offshore teams (as needed) to deliver projects to time, cost and quality requirements 
+Consolidating tax data to make analysis and planning more efficient
+Improving reporting capabilities to enhance our clients’ ability to evaluate risk and capitalize on opportunities
+Desire and demonstrated ability to provide leadership within a team
+A bachelor’s degree in Accounting, Finance, Information Systems, Economics and/or a master’s degree in Accounting, Tax Technology, Management Information Systems, or Computer Science or related field and a minimum of 2 years of related work experience
+You are required to have one of the following certifications, or the ability to obtain one of these certifications when you join EY: CPA, JD, Six Sigma Green/Black Belt and/or Project Management Professional “PMP”; Master’s degree in Accounting, Tax, Business Administration, Finance, Computer Science, Information Systems or Engineering; Certain other certifications accepted, please inquire for additional details
+Exposure to the financial services industry, accounting/finance/tax, tax or finance performance improvement, tax software development and/or implementation 
+A strong interest in technology and its use in business processes
+Excellent communication and business writing skills
+Demonstrated ability to capture and synthesize business requirements
+A natural flair for problem solving and an entrepreneurial approach to work
+Strong organizational and time management skills, with exceptional client-serving consulting skills"
+Software Engineer,Robinhood,Menlo Park,$157K—$185K,"Ship new code to production on Day 1
+Build innovative core features for our world-class credit application
+Join an exclusive A+ team of software developers
+Collaborate with Designers, Product Managers and Engineering Leadership to shape and deliver our next generation credit card products
+Help to architect and implement core engineering systems that support our products as we prepare to scale","You have at least three years of software engineering experience
+You have a mix of Frontend and Backend experience, including strong experience with React and/or React Native
+You are a top-tier developer, passionate about both excellence and execution
+You love to move fast and you bring a sense of urgency to your team
+You have high standards and a strong work ethic - you always bring your best and expect your colleagues to do the same
+You take delight in bringing innovation and impact to customers
+You are energized by reaching for scope and defining challenging milestones for yourself
+You have superb product sense and excellent communication skills"
