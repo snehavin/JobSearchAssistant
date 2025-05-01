@@ -36,7 +36,7 @@ python -m streamlit run jobsearch-assistant.py
 ## Installing
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/job-search-chatbot.git
+git clone https://github.com/snehavin/job-search-chatbot.git
 cd job-search-chatbot
 ```
 
